@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile>
+  <MaxNumberOfHoursPerCourse>3</MaxNumberOfHoursPerCourse>
+  <MaxBreakMinutesPerSession>15</MaxBreakMinutesPerSession>
+  <MaxNumberOfCoursesPerProfessor>3</MaxNumberOfCoursesPerProfessor>
+</SettingsFile>

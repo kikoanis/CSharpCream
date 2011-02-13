@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="ClassLibrary.Solution,ClassLibrary" table="`Solution`" lazy="true">
+    <id name="Id" column="`ID`" type="guid">
+      <generator class="guid" />
+    </id>
+    <version name="Version" column="`Version`" type="int" />
+    <property type="int" not-null="true" name="SolutionNo" column="`SolutionNo`" />
+    <property type="int" not-null="true" name="Weight" column="`Weight`" />
+    <property type="long" not-null="true" name="Time" column="`Time`" />
+    <property type="string" not-null="true" name="Course" column="`CourseText`" />
+    <property type="string" not-null="true" name="Professor" column="`ProfessorText`" />
+  </class>
+</hibernate-mapping>

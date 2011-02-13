@@ -1,0 +1,131 @@
+I:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\Testing.exe
+I:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\Testing.pdb
+I:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\Cream.dll
+I:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\CSharpCream.NET\Testing\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\CSharpCream.NET\Testing\obj\Debug\Testing.exe
+I:\CSharpCream.NET\CSharpCream.NET\Testing\obj\Debug\Testing.pdb
+I:\CSharpCream.NET\Testing\obj\Debug\Testing.exe
+I:\CSharpCream.NET\Testing\obj\Debug\Testing.pdb
+I:\CSharpCream.NET\Testing\bin\Debug\Testing.exe
+I:\CSharpCream.NET\Testing\bin\Debug\Testing.pdb
+I:\CSharpCream.NET\Testing\bin\Debug\Cream.dll
+I:\CSharpCream.NET\Testing\bin\Debug\PowerCollections.dll
+I:\CSharpCream.NET\Testing\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\Testing\bin\Debug\PowerCollections.pdb
+I:\CSharpCream.NET\Testing\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET\Testing\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET\Testing\bin\Debug\Testing.exe
+F:\CSharpCream.NET\Testing\bin\Debug\Testing.pdb
+F:\CSharpCream.NET\Testing\bin\Debug\Cream.dll
+F:\CSharpCream.NET\Testing\bin\Debug\PowerCollections.dll
+F:\CSharpCream.NET\Testing\bin\Debug\Cream.pdb
+F:\CSharpCream.NET\Testing\bin\Debug\PowerCollections.pdb
+F:\CSharpCream.NET\Testing\obj\Debug\Testing.exe
+F:\CSharpCream.NET\Testing\obj\Debug\Testing.pdb
+E:\CSharpCream.NET\Testing\obj\Debug\Testing.exe
+E:\CSharpCream.NET\Testing\obj\Debug\Testing.pdb
+E:\CSharpCream.NET\Testing\bin\Debug\Testing.exe
+E:\CSharpCream.NET\Testing\bin\Debug\Testing.pdb
+E:\CSharpCream.NET\Testing\bin\Debug\Cream.dll
+E:\CSharpCream.NET\Testing\bin\Debug\PowerCollections.dll
+E:\CSharpCream.NET\Testing\bin\Debug\Cream.pdb
+E:\CSharpCream.NET\Testing\bin\Debug\PowerCollections.pdb
+E:\CSharpCream.NET\Testing\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\Testing\bin\Debug\Testing.exe
+D:\CSharpCream.NET\Testing\bin\Debug\Testing.pdb
+D:\CSharpCream.NET\Testing\bin\Debug\Cream.dll
+D:\CSharpCream.NET\Testing\bin\Debug\PowerCollections.dll
+D:\CSharpCream.NET\Testing\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\Testing\bin\Debug\PowerCollections.pdb
+D:\CSharpCream.NET\Testing\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\Testing\obj\Debug\Testing.exe
+D:\CSharpCream.NET\Testing\obj\Debug\Testing.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\Testing.exe
+D:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\Testing.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\Cream.dll
+D:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\PowerCollections.dll
+D:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Testing\bin\Debug\PowerCollections.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Testing\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\CSharpCream.NET\Testing\obj\Debug\Testing.exe
+D:\CSharpCream.NET\CSharpCream.NET\Testing\obj\Debug\Testing.pdb
+E:\CSharpCream.NET-15\Testing\bin\Debug\Testing.exe
+E:\CSharpCream.NET-15\Testing\bin\Debug\Testing.pdb
+E:\CSharpCream.NET-15\Testing\bin\Debug\PowerCollections.dll
+E:\CSharpCream.NET-15\Testing\bin\Debug\Cream.pdb
+E:\CSharpCream.NET-15\Testing\bin\Debug\PowerCollections.pdb
+E:\CSharpCream.NET-15\Testing\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET-15\Testing\obj\Debug\Testing.exe
+E:\CSharpCream.NET-15\Testing\obj\Debug\Testing.pdb
+E:\CSharpCream.NET-15\Testing\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\Testing\bin\Debug\Testing.exe
+D:\CSharpCream.NET-15\Testing\bin\Debug\Testing.pdb
+D:\CSharpCream.NET-15\Testing\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\Testing\bin\Debug\PowerCollections.dll
+D:\CSharpCream.NET-15\Testing\bin\Debug\Cream.pdb
+D:\CSharpCream.NET-15\Testing\bin\Debug\PowerCollections.pdb
+D:\CSharpCream.NET-15\Testing\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET-15\Testing\obj\Debug\Testing.exe
+D:\CSharpCream.NET-15\Testing\obj\Debug\Testing.pdb
+F:\CSharpCream.NET-15\Testing\bin\Debug\Testing.exe
+F:\CSharpCream.NET-15\Testing\bin\Debug\Testing.pdb
+F:\CSharpCream.NET-15\Testing\bin\Debug\Cream.dll
+F:\CSharpCream.NET-15\Testing\bin\Debug\PowerCollections.dll
+F:\CSharpCream.NET-15\Testing\bin\Debug\Cream.pdb
+F:\CSharpCream.NET-15\Testing\bin\Debug\PowerCollections.pdb
+F:\CSharpCream.NET-15\Testing\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET-15\Testing\obj\Debug\Testing.exe
+F:\CSharpCream.NET-15\Testing\obj\Debug\Testing.pdb
+I:\CSharpCream.NET-15\Testing\bin\Debug\Testing.exe
+I:\CSharpCream.NET-15\Testing\bin\Debug\Testing.pdb
+I:\CSharpCream.NET-15\Testing\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15\Testing\bin\Debug\PowerCollections.dll
+I:\CSharpCream.NET-15\Testing\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15\Testing\bin\Debug\PowerCollections.pdb
+I:\CSharpCream.NET-15\Testing\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15\Testing\obj\Debug\Testing.exe
+I:\CSharpCream.NET-15\Testing\obj\Debug\Testing.pdb
+I:\CSharpCream.NET-15 - 2010\Testing\bin\Debug\Testing.Contracts.dll
+I:\CSharpCream.NET-15 - 2010\Testing\bin\Debug\Testing.Contracts.pdb
+I:\CSharpCream.NET-15 - 2010\Testing\bin\Debug\Testing.exe
+I:\CSharpCream.NET-15 - 2010\Testing\bin\Debug\Testing.pdb
+I:\CSharpCream.NET-15 - 2010\Testing\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15 - 2010\Testing\bin\Debug\PowerCollections.dll
+I:\CSharpCream.NET-15 - 2010\Testing\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15 - 2010\Testing\bin\Debug\PowerCollections.pdb
+I:\CSharpCream.NET-15 - 2010\Testing\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15 - 2010\Testing\obj\Debug\Testing.exe
+I:\CSharpCream.NET-15 - 2010\Testing\obj\Debug\Testing.pdb
+I:\CourseAssignment_2010\Testing\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Testing\bin\Debug\Testing.Contracts.dll
+I:\CourseAssignment_2010\Testing\bin\Debug\Testing.Contracts.pdb
+I:\CourseAssignment_2010\Testing\bin\Debug\Testing.exe.config
+I:\CourseAssignment_2010\Testing\bin\Debug\Testing.exe
+I:\CourseAssignment_2010\Testing\bin\Debug\Testing.pdb
+I:\CourseAssignment_2010\Testing\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Testing\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Testing\obj\Debug\Testing.exe
+I:\CourseAssignment_2010\Testing\obj\Debug\Testing.pdb
+I:\CourseAssignment_2010\Cream Samples\Testing\bin\Debug\Testing.Contracts.dll
+I:\CourseAssignment_2010\Cream Samples\Testing\bin\Debug\Testing.Contracts.pdb
+I:\CourseAssignment_2010\Cream Samples\Testing\bin\Debug\Testing.exe.config
+I:\CourseAssignment_2010\Cream Samples\Testing\bin\Debug\Testing.exe
+I:\CourseAssignment_2010\Cream Samples\Testing\bin\Debug\Testing.pdb
+I:\CourseAssignment_2010\Cream Samples\Testing\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Cream Samples\Testing\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Cream Samples\Testing\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Cream Samples\Testing\obj\Debug\Testing.exe
+I:\CourseAssignment_2010\Cream Samples\Testing\obj\Debug\Testing.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\bin\Debug\Testing.Contracts.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\bin\Debug\Testing.Contracts.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\bin\Debug\Testing.exe.config
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\bin\Debug\Testing.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\bin\Debug\Testing.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\obj\Debug\Testing.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Testing\obj\Debug\Testing.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Testing\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Testing\obj\Debug\Testing.pdb

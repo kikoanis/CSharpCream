@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\NFractionPuzzle\bin\Release\NFractionPuzzle.exe
+E:\CSharpCream.NET\NFractionPuzzle\bin\Release\NFractionPuzzle.pdb
+E:\CSharpCream.NET\NFractionPuzzle\bin\Release\Cream.dll
+E:\CSharpCream.NET\NFractionPuzzle\bin\Release\Cream.pdb
+E:\CSharpCream.NET\NFractionPuzzle\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\NFractionPuzzle\obj\Release\NFractionPuzzle.exe
+E:\CSharpCream.NET\NFractionPuzzle\obj\Release\NFractionPuzzle.pdb

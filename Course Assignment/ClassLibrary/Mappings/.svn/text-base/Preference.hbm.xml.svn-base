@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="ClassLibrary.Preference,ClassLibrary" table="`Preferences`" lazy="true">
+    <composite-id name="Id" class="ClassLibrary.PreferencesId,ClassLibrary">
+      <key-many-to-one name="Professor" class="ClassLibrary.Professor,ClassLibrary" column="`ProfID`" />
+      <key-many-to-one name="Course" class="ClassLibrary.Course,ClassLibrary" column="`CourseID`" />
+    </composite-id>
+    <version name="Version" column="`Version`" type="int"   unsaved-value="0" />
+    <property type="int" name="Weight" column="`Weight`" />
+    <property type="int" name="PreferenceType" column="`Type`" />
+  </class>
+</hibernate-mapping>

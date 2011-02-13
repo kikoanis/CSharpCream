@@ -1,0 +1,267 @@
+/* ------------------------------------------------------------------------
+	Content Redefinition
+------------------------------------------------------------------------- */
+
+	* { margin: 0; padding: 0; border: 0; } 
+
+	body {
+		font: 62.5%/1.2 Verdana, Arial, Sans-Serif;
+		letter-spacing: 0.02em;
+		background: #728187 url(../images/backgrounds/bodyBackground.jpg) fixed top left repeat-x;
+		color: #687275;
+		text-align: left;
+	}
+
+	a { color: #9db2b9; }
+	a:hover { text-decoration: none; }
+	a:focus { outline: none; }
+
+	p { font-size: 1.2em; }
+
+	h1, h2, h3, h4, h5, h6, p { margin: 0 0 10px 0; }
+	
+	h1 { margin: 0; font-size: 1.8em; }
+	
+	h2, h3 {
+		font-size: 1.4em;
+		border-bottom: 1px #9db2b9 solid;
+		padding: 0 0 5px 0;
+		margin: 0 0 10px 0;
+	}
+	
+	h3 { margin: 20px 0 10px 0; }
+	
+	pre { display: block; }
+	
+	code {
+		display: block;
+		font: 1.3em Verdana, Arial, Sans-Serif;
+		padding: 0 10px;
+		border-left: 4px #bfc6c7 solid;
+		background: #E7EFF0;
+		color: #000;
+	}
+	
+	.highlight {
+		background: #E7EFF0;
+		color: #000;
+		padding: 0 5px;
+	}
+	
+	ul { margin: 0 0 0 15px; font-size: 1.2em; }
+	ul.noBull { list-style: none; margin-left: 0; }
+		ul li { margin: 0 0 5px 0; }
+		ul li.current {
+			border: 1px #bfc6c7 solid;
+			background: #E7EFF0;
+			padding: 2px;
+		}
+		ul.noBull li.current { margin-left: -2px; }
+		
+		ul.noBull li { margin:  0 0 10px 0; }
+		ul li span.counter { display: block; float: left; text-align: right; width: 60px; margin: 0 10px 0 0; }
+		ul li span.description { display: block; float: left; width: 600px; }
+	
+	ul.checkmark {
+		margin: 0;
+		list-style: none;
+	}
+		
+		ul.checkmark li {
+			padding: 1px 0 1px 20px;
+			background: url(../images/backgrounds/checkmark.gif) center left no-repeat;
+		}
+		
+	textarea {
+		width: 500px; height: 40px;
+		font-family: Verdana, Arial, Sans-Serif;
+		font-size: 1.2em;
+		color: #687275;
+		border: 1px #bfc6c7 solid;
+	}
+	
+	label {
+		display: block;
+		font-size: 1.2em;
+		margin: 20px 0 5px 0;
+	}
+
+
+/* ------------------------------------------------------------------------
+	Layout
+------------------------------------------------------------------------- */
+
+	#wrap {
+		position: relative;
+		width: 900px;
+		margin: 0 0 20px 0;
+	}
+
+	#content {
+		width: 680px;
+		padding: 30px;
+		background: #fff;
+		border: 4px #000 double;
+		margin: 10px 0 0 280px;
+	}
+	
+	ul.menu {
+		left: 0; top: 10px;
+		position: fixed;
+		list-style: none;
+		width: 230px; overflow: hidden;
+		background: #fff;
+		padding: 10px;
+		border: 4px #000 double;
+	}
+	
+		ul.menu li a {
+			display: block;
+			color: #687275;
+			padding: 2px;
+			text-decoration: none;
+		}
+		
+			ul.menu li a:hover {
+				background: #E7EFF0;
+				text-decoration: none;
+			}
+			ul.menu li.selected a {
+				border: 1px #bfc6c7 solid;
+				background: #E7EFF0;
+				text-decoration: none;
+			}
+		
+			ul.menu li.last { border: 0; }
+			
+	ul.submenu {
+		left: 0; top: 360px;
+		position: fixed;
+		list-style: none;
+		width: 230px;
+		background: #fff;
+		padding: 10px;
+		border: 4px #000 double;
+	}
+
+		ul.submenu li a {
+			display: block;
+			color: #687275;
+			padding: 2px;
+			text-decoration: none;
+		}
+
+			ul.submenu li a:hover {
+				background: #E7EFF0;
+				text-decoration: none;
+			}
+			ul.submenu li.selected a {
+				border: 1px #bfc6c7 solid;
+				background: #E7EFF0;
+				text-decoration: none;
+			}
+
+			ul.submenu li.last { border: 0; }
+	
+	ul.gallery {
+		list-style: none;
+		margin: 0 0 10px 0;
+	}
+	
+		ul.gallery li {
+			display: block;
+			float: left;
+			margin: 0 5px 0 0;
+		}
+		
+			ul.gallery li a {
+				padding: 2px;
+				display: block;
+				border: 4px #9db2b9 double;
+				line-height: 0;
+			}
+			
+			ul.gallery li a:hover { border: 4px #000 double; }
+			
+	ul.paging {
+		list-style: none;
+		margin: 0;
+	}
+	
+		ul.paging li { display: block; float: left; margin: 0 5px 0 0; }
+		
+			ul.paging a { text-decoration: none; font-size: 0.8em; }
+	
+	div.ad_block { position: relative; left: -25px; margin: 10px 0 -5px 0; }
+	
+	form {
+		float: left;
+		width: 275px;
+		margin: 0 25px 0 0;
+	}
+	
+	form label { margin: 0 0 5px 0; }
+	
+	form legend {
+		font-size: 1.2em;
+		margin: 0 0 5px 0;
+		padding: 0 0 2px 0;
+		border-bottom: 1px #bfc6c7 solid;
+	}
+	
+	form input.button {
+		width: 90px;
+		border: 1px #bfc6c7 solid;
+		background: #E7EFF0;
+		color: #687275;
+		padding: 2px;
+		margin-top: 10px;
+		text-align: center;
+		float: left;
+		clear: both;
+	}
+	
+	form.genericForm { width: 200px; margin: 0; }
+	
+	form.genericForm .error-message { font-size: 0.8em; color: #FE0000; margin: -10px 0 10px 0; }
+	
+	form.genericForm label {
+		font-size: 0.8em;
+		text-transform: uppercase;
+		margin: 0 0 2px 0;
+	}
+		form.genericForm input {
+			font-size: 0.8em;
+			width: 95%;
+			margin: 0 0 10px 0;
+			padding: 2px;
+			border: 1px #bfc6c7 solid;
+		}
+			form.genericForm input.submit { width: auto; margin: 0; }
+	
+	.prettyPopin .prettyContent .prettyContent-container h3 {
+		font-weight: normal;
+		font-size: 1.1em;
+		margin: -10px 0 10px 0;
+		border-bottom: 1px #bfc6c7 solid;
+	}
+
+
+/* ------------------------------------------------------------------------
+	Miscellaneous
+------------------------------------------------------------------------- */
+
+	.clearfix:after {
+	    content: "."; 
+	    display: block; 
+	    height: 0; 
+	    clear: both; 
+	    visibility: hidden;
+	}
+
+	.clearfix {display: inline-block;}
+
+	/* Hides from IE-mac \*/
+	* html .clearfix {height: 1%;}
+	.clearfix {display: block;}
+	/* End hide from IE-mac */

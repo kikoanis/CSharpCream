@@ -1,0 +1,14 @@
+E:\CSharpCream.NET\MainMenu\bin\Release\MainMenu.exe
+E:\CSharpCream.NET\MainMenu\bin\Release\MainMenu.pdb
+E:\CSharpCream.NET\MainMenu\bin\Release\QueensGame.exe
+E:\CSharpCream.NET\MainMenu\bin\Release\SudokuGame.exe
+E:\CSharpCream.NET\MainMenu\bin\Release\Cream.dll
+E:\CSharpCream.NET\MainMenu\bin\Release\QueensGame.pdb
+E:\CSharpCream.NET\MainMenu\bin\Release\Cream.pdb
+E:\CSharpCream.NET\MainMenu\bin\Release\SudokuGame.pdb
+E:\CSharpCream.NET\MainMenu\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\MainMenu\obj\Release\MainMenu.MainMenu.resources
+E:\CSharpCream.NET\MainMenu\obj\Release\MainMenu.Properties.Resources.resources
+E:\CSharpCream.NET\MainMenu\obj\Release\MainMenu.csproj.GenerateResource.Cache
+E:\CSharpCream.NET\MainMenu\obj\Release\MainMenu.exe
+E:\CSharpCream.NET\MainMenu\obj\Release\MainMenu.pdb

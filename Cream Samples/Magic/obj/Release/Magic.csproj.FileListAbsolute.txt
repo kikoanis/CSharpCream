@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\Magic\bin\Release\Magic.exe
+E:\CSharpCream.NET\Magic\bin\Release\Magic.pdb
+E:\CSharpCream.NET\Magic\bin\Release\Cream.dll
+E:\CSharpCream.NET\Magic\bin\Release\Cream.pdb
+E:\CSharpCream.NET\Magic\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\Magic\obj\Release\Magic.exe
+E:\CSharpCream.NET\Magic\obj\Release\Magic.pdb

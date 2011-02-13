@@ -1,0 +1,9 @@
+E:\CSharpCream.NET\Testing\bin\Release\Testing.exe
+E:\CSharpCream.NET\Testing\bin\Release\Testing.pdb
+E:\CSharpCream.NET\Testing\bin\Release\Cream.dll
+E:\CSharpCream.NET\Testing\bin\Release\PowerCollections.dll
+E:\CSharpCream.NET\Testing\bin\Release\Cream.pdb
+E:\CSharpCream.NET\Testing\bin\Release\PowerCollections.pdb
+E:\CSharpCream.NET\Testing\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\Testing\obj\Release\Testing.exe
+E:\CSharpCream.NET\Testing\obj\Release\Testing.pdb

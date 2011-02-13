@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\FT06\bin\Release\FT06.exe
+E:\CSharpCream.NET\FT06\bin\Release\FT06.pdb
+E:\CSharpCream.NET\FT06\bin\Release\Cream.dll
+E:\CSharpCream.NET\FT06\bin\Release\Cream.pdb
+E:\CSharpCream.NET\FT06\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\FT06\obj\Release\FT06.exe
+E:\CSharpCream.NET\FT06\obj\Release\FT06.pdb

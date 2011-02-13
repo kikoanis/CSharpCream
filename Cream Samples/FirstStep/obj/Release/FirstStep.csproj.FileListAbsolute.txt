@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\FirstStep\bin\Release\FirstStep.exe
+E:\CSharpCream.NET\FirstStep\bin\Release\FirstStep.pdb
+E:\CSharpCream.NET\FirstStep\bin\Release\Cream.dll
+E:\CSharpCream.NET\FirstStep\bin\Release\Cream.pdb
+E:\CSharpCream.NET\FirstStep\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\FirstStep\obj\Release\FirstStep.exe
+E:\CSharpCream.NET\FirstStep\obj\Release\FirstStep.pdb

@@ -1,0 +1,119 @@
+I:\CSharpCream.NET\CSharpCream.NET\Museum\bin\Debug\Museum.exe
+I:\CSharpCream.NET\CSharpCream.NET\Museum\bin\Debug\Museum.pdb
+I:\CSharpCream.NET\CSharpCream.NET\Museum\bin\Debug\Cream.dll
+I:\CSharpCream.NET\CSharpCream.NET\Museum\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\CSharpCream.NET\Museum\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\CSharpCream.NET\Museum\obj\Debug\Museum.exe
+I:\CSharpCream.NET\CSharpCream.NET\Museum\obj\Debug\Museum.pdb
+I:\CSharpCream.NET\Museum\bin\Debug\Museum.exe
+I:\CSharpCream.NET\Museum\bin\Debug\Museum.pdb
+I:\CSharpCream.NET\Museum\bin\Debug\Cream.dll
+I:\CSharpCream.NET\Museum\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\Museum\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\Museum\obj\Debug\Museum.exe
+I:\CSharpCream.NET\Museum\obj\Debug\Museum.pdb
+F:\CSharpCream.NET\Museum\bin\Debug\Museum.exe
+F:\CSharpCream.NET\Museum\bin\Debug\Museum.pdb
+F:\CSharpCream.NET\Museum\bin\Debug\Cream.dll
+F:\CSharpCream.NET\Museum\bin\Debug\Cream.pdb
+F:\CSharpCream.NET\Museum\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET\Museum\obj\Debug\Museum.exe
+F:\CSharpCream.NET\Museum\obj\Debug\Museum.pdb
+E:\CSharpCream.NET\Museum\bin\Debug\Museum.exe
+E:\CSharpCream.NET\Museum\bin\Debug\Museum.pdb
+E:\CSharpCream.NET\Museum\bin\Debug\Cream.dll
+E:\CSharpCream.NET\Museum\bin\Debug\Cream.pdb
+E:\CSharpCream.NET\Museum\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\Museum\obj\Debug\Museum.exe
+E:\CSharpCream.NET\Museum\obj\Debug\Museum.pdb
+D:\CSharpCream.NET\Museum\bin\Debug\Museum.exe
+D:\CSharpCream.NET\Museum\bin\Debug\Museum.pdb
+D:\CSharpCream.NET\Museum\bin\Debug\Cream.dll
+D:\CSharpCream.NET\Museum\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\Museum\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\Museum\obj\Debug\Museum.exe
+D:\CSharpCream.NET\Museum\obj\Debug\Museum.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Museum\bin\Debug\Museum.exe
+D:\CSharpCream.NET\CSharpCream.NET\Museum\bin\Debug\Museum.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Museum\bin\Debug\Cream.dll
+D:\CSharpCream.NET\CSharpCream.NET\Museum\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Museum\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\CSharpCream.NET\Museum\obj\Debug\Museum.exe
+D:\CSharpCream.NET\CSharpCream.NET\Museum\obj\Debug\Museum.pdb
+E:\CSharpCream.NET-15\Museum\bin\Debug\Museum.exe
+E:\CSharpCream.NET-15\Museum\bin\Debug\Museum.pdb
+E:\CSharpCream.NET-15\Museum\bin\Debug\Cream.pdb
+E:\CSharpCream.NET-15\Museum\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET-15\Museum\obj\Debug\Museum.exe
+E:\CSharpCream.NET-15\Museum\obj\Debug\Museum.pdb
+E:\CSharpCream.NET-15\Museum\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\Museum\bin\Debug\Museum.exe
+D:\CSharpCream.NET-15\Museum\bin\Debug\Museum.pdb
+D:\CSharpCream.NET-15\Museum\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\Museum\bin\Debug\Cream.pdb
+D:\CSharpCream.NET-15\Museum\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET-15\Museum\obj\Debug\Museum.exe
+D:\CSharpCream.NET-15\Museum\obj\Debug\Museum.pdb
+F:\CSharpCream.NET-15\Museum\bin\Debug\Museum.exe
+F:\CSharpCream.NET-15\Museum\bin\Debug\Museum.pdb
+F:\CSharpCream.NET-15\Museum\bin\Debug\Cream.dll
+F:\CSharpCream.NET-15\Museum\bin\Debug\Cream.pdb
+F:\CSharpCream.NET-15\Museum\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET-15\Museum\obj\Debug\Museum.exe
+F:\CSharpCream.NET-15\Museum\obj\Debug\Museum.pdb
+I:\CSharpCream.NET-15\Museum\bin\Debug\Museum.exe
+I:\CSharpCream.NET-15\Museum\bin\Debug\Museum.pdb
+I:\CSharpCream.NET-15\Museum\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15\Museum\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15\Museum\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15\Museum\obj\Debug\Museum.exe
+I:\CSharpCream.NET-15\Museum\obj\Debug\Museum.pdb
+I:\CSharpCream.NET-15 - 2010\Museum\bin\Debug\Museum.Contracts.dll
+I:\CSharpCream.NET-15 - 2010\Museum\bin\Debug\Museum.Contracts.pdb
+I:\CSharpCream.NET-15 - 2010\Museum\bin\Debug\Museum.exe
+I:\CSharpCream.NET-15 - 2010\Museum\bin\Debug\Museum.pdb
+I:\CSharpCream.NET-15 - 2010\Museum\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15 - 2010\Museum\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15 - 2010\Museum\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15 - 2010\Museum\obj\Debug\Museum.exe
+I:\CSharpCream.NET-15 - 2010\Museum\obj\Debug\Museum.pdb
+I:\CourseAssignment_2010\Museum\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Museum\bin\Debug\Museum.Contracts.dll
+I:\CourseAssignment_2010\Museum\bin\Debug\Museum.Contracts.pdb
+I:\CourseAssignment_2010\Museum\bin\Debug\Museum.exe.config
+I:\CourseAssignment_2010\Museum\bin\Debug\Museum.exe
+I:\CourseAssignment_2010\Museum\bin\Debug\Museum.pdb
+I:\CourseAssignment_2010\Museum\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Museum\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Museum\obj\Debug\Museum.exe
+I:\CourseAssignment_2010\Museum\obj\Debug\Museum.pdb
+I:\CourseAssignment_2010\Cream Samples\Museum\bin\Debug\Museum.Contracts.dll
+I:\CourseAssignment_2010\Cream Samples\Museum\bin\Debug\Museum.Contracts.pdb
+I:\CourseAssignment_2010\Cream Samples\Museum\bin\Debug\Museum.exe.config
+I:\CourseAssignment_2010\Cream Samples\Museum\bin\Debug\Museum.exe
+I:\CourseAssignment_2010\Cream Samples\Museum\bin\Debug\Museum.pdb
+I:\CourseAssignment_2010\Cream Samples\Museum\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Cream Samples\Museum\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Cream Samples\Museum\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Cream Samples\Museum\obj\Debug\Museum.exe
+I:\CourseAssignment_2010\Cream Samples\Museum\obj\Debug\Museum.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\bin\Debug\Museum.Contracts.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\bin\Debug\Museum.Contracts.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\bin\Debug\Museum.exe.config
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\bin\Debug\Museum.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\bin\Debug\Museum.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\obj\Debug\Museum.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Museum\obj\Debug\Museum.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\obj\Debug\Museum.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\bin\Debug\Museum.Contracts.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\bin\Debug\Museum.Contracts.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\bin\Debug\Museum.exe.config
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\bin\Debug\Museum.exe
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\bin\Debug\Museum.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Museum\obj\Debug\Museum.exe

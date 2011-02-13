@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\JSSP\bin\Release\JSSP.exe
+E:\CSharpCream.NET\JSSP\bin\Release\JSSP.pdb
+E:\CSharpCream.NET\JSSP\bin\Release\Cream.dll
+E:\CSharpCream.NET\JSSP\bin\Release\Cream.pdb
+E:\CSharpCream.NET\JSSP\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\JSSP\obj\Release\JSSP.exe
+E:\CSharpCream.NET\JSSP\obj\Release\JSSP.pdb

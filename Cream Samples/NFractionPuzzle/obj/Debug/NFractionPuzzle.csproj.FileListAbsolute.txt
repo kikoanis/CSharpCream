@@ -1,0 +1,119 @@
+I:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+I:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+I:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+I:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+I:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.dll
+I:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+I:\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+I:\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.dll
+I:\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+I:\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+F:\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+F:\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+F:\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.dll
+F:\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.pdb
+F:\CSharpCream.NET\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+F:\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+E:\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+E:\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+E:\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.dll
+E:\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.pdb
+E:\CSharpCream.NET\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+E:\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+D:\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+D:\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+D:\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.dll
+D:\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+D:\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+D:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+D:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+D:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.dll
+D:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+D:\CSharpCream.NET\CSharpCream.NET\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+E:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+E:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+E:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\Cream.pdb
+E:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+E:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+E:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+D:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+D:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\Cream.pdb
+D:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+D:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+F:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+F:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+F:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\Cream.dll
+F:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\Cream.pdb
+F:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+F:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+I:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+I:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+I:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15\NFractionPuzzle\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+I:\CSharpCream.NET-15\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.dll
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.pdb
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+I:\CSharpCream.NET-15 - 2010\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+I:\CourseAssignment_2010\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.dll
+I:\CourseAssignment_2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.pdb
+I:\CourseAssignment_2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe.config
+I:\CourseAssignment_2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+I:\CourseAssignment_2010\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+I:\CourseAssignment_2010\NFractionPuzzle\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\NFractionPuzzle\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+I:\CourseAssignment_2010\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.dll
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.pdb
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe.config
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+I:\CourseAssignment_2010\Cream Samples\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe.config
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\obj\Debug\NFractionPuzzle.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.Contracts.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe.config
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.exe
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\bin\Debug\NFractionPuzzle.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\NFractionPuzzle\obj\Debug\NFractionPuzzle.exe

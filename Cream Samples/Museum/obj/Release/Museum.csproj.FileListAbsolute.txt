@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\Museum\bin\Release\Museum.exe
+E:\CSharpCream.NET\Museum\bin\Release\Museum.pdb
+E:\CSharpCream.NET\Museum\bin\Release\Cream.dll
+E:\CSharpCream.NET\Museum\bin\Release\Cream.pdb
+E:\CSharpCream.NET\Museum\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\Museum\obj\Release\Museum.exe
+E:\CSharpCream.NET\Museum\obj\Release\Museum.pdb

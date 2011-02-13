@@ -1,0 +1,10 @@
+E:\CSharpCream.NET\SudokuGame\bin\Release\SudokuGame.exe
+E:\CSharpCream.NET\SudokuGame\bin\Release\SudokuGame.pdb
+E:\CSharpCream.NET\SudokuGame\bin\Release\Cream.dll
+E:\CSharpCream.NET\SudokuGame\bin\Release\Cream.pdb
+E:\CSharpCream.NET\SudokuGame\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\SudokuGame\obj\Release\SudokuGame.SudokuMainForm.resources
+E:\CSharpCream.NET\SudokuGame\obj\Release\SudokuGame.Properties.Resources.resources
+E:\CSharpCream.NET\SudokuGame\obj\Release\SudokuGame.csproj.GenerateResource.Cache
+E:\CSharpCream.NET\SudokuGame\obj\Release\SudokuGame.exe
+E:\CSharpCream.NET\SudokuGame\obj\Release\SudokuGame.pdb

@@ -1,0 +1,7 @@
+L:\Users\Ali\Documents\Git\CourseAssignment\Course Assignment\ClassLibrary\bin\Debug\ClassLibrary.Contracts.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Course Assignment\ClassLibrary\bin\Debug\ClassLibrary.Contracts.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Course Assignment\ClassLibrary\bin\Debug\ClassLibrary.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Course Assignment\ClassLibrary\bin\Debug\ClassLibrary.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Course Assignment\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Course Assignment\ClassLibrary\obj\Debug\ClassLibrary.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Course Assignment\ClassLibrary\obj\Debug\ClassLibrary.pdb

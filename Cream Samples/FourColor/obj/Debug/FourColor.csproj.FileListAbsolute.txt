@@ -1,0 +1,100 @@
+E:\CSharpCream.NET-15\FourColor\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+E:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.csproj.GenerateResource.Cache
+E:\CSharpCream.NET-15\FourColor\bin\Debug\FourColor.exe
+E:\CSharpCream.NET-15\FourColor\bin\Debug\FourColor.pdb
+E:\CSharpCream.NET-15\FourColor\bin\Debug\Cream.dll
+E:\CSharpCream.NET-15\FourColor\bin\Debug\Cream.pdb
+E:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.exe
+E:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.pdb
+D:\CSharpCream.NET-15\FourColor\bin\Debug\FourColor.exe
+D:\CSharpCream.NET-15\FourColor\bin\Debug\FourColor.pdb
+D:\CSharpCream.NET-15\FourColor\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\FourColor\bin\Debug\Cream.pdb
+D:\CSharpCream.NET-15\FourColor\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+D:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.csproj.GenerateResource.Cache
+D:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.exe
+D:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.pdb
+F:\CSharpCream.NET-15\FourColor\bin\Debug\FourColor.exe
+F:\CSharpCream.NET-15\FourColor\bin\Debug\FourColor.pdb
+F:\CSharpCream.NET-15\FourColor\bin\Debug\Cream.dll
+F:\CSharpCream.NET-15\FourColor\bin\Debug\Cream.pdb
+F:\CSharpCream.NET-15\FourColor\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+F:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.csproj.GenerateResource.Cache
+F:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.exe
+F:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.pdb
+I:\CSharpCream.NET-15\FourColor\bin\Debug\FourColor.exe
+I:\CSharpCream.NET-15\FourColor\bin\Debug\FourColor.pdb
+I:\CSharpCream.NET-15\FourColor\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15\FourColor\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15\FourColor\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+I:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.csproj.GenerateResource.Cache
+I:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.exe
+I:\CSharpCream.NET-15\FourColor\obj\Debug\FourColor.pdb
+I:\CSharpCream.NET-15 - 2010\FourColor\bin\Debug\FourColor.Contracts.dll
+I:\CSharpCream.NET-15 - 2010\FourColor\bin\Debug\FourColor.Contracts.pdb
+I:\CSharpCream.NET-15 - 2010\FourColor\bin\Debug\FourColor.exe
+I:\CSharpCream.NET-15 - 2010\FourColor\bin\Debug\FourColor.pdb
+I:\CSharpCream.NET-15 - 2010\FourColor\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15 - 2010\FourColor\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15 - 2010\FourColor\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15 - 2010\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+I:\CSharpCream.NET-15 - 2010\FourColor\obj\Debug\ResGen.read.1.tlog
+I:\CSharpCream.NET-15 - 2010\FourColor\obj\Debug\ResGen.write.1.tlog
+I:\CSharpCream.NET-15 - 2010\FourColor\obj\Debug\FourColor.exe
+I:\CSharpCream.NET-15 - 2010\FourColor\obj\Debug\FourColor.pdb
+I:\CourseAssignment_2010\FourColor\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+I:\CourseAssignment_2010\FourColor\obj\Debug\GenerateResource.read.1.tlog
+I:\CourseAssignment_2010\FourColor\obj\Debug\GenerateResource.write.1.tlog
+I:\CourseAssignment_2010\FourColor\bin\Debug\FourColor.Contracts.dll
+I:\CourseAssignment_2010\FourColor\bin\Debug\FourColor.Contracts.pdb
+I:\CourseAssignment_2010\FourColor\bin\Debug\FourColor.exe.config
+I:\CourseAssignment_2010\FourColor\bin\Debug\FourColor.exe
+I:\CourseAssignment_2010\FourColor\bin\Debug\FourColor.pdb
+I:\CourseAssignment_2010\FourColor\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\FourColor\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\FourColor\obj\Debug\FourColor.exe
+I:\CourseAssignment_2010\FourColor\obj\Debug\FourColor.pdb
+I:\CourseAssignment_2010\Cream Samples\FourColor\bin\Debug\FourColor.Contracts.dll
+I:\CourseAssignment_2010\Cream Samples\FourColor\bin\Debug\FourColor.Contracts.pdb
+I:\CourseAssignment_2010\Cream Samples\FourColor\bin\Debug\FourColor.exe.config
+I:\CourseAssignment_2010\Cream Samples\FourColor\bin\Debug\FourColor.exe
+I:\CourseAssignment_2010\Cream Samples\FourColor\bin\Debug\FourColor.pdb
+I:\CourseAssignment_2010\Cream Samples\FourColor\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Cream Samples\FourColor\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Cream Samples\FourColor\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Cream Samples\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+I:\CourseAssignment_2010\Cream Samples\FourColor\obj\Debug\GenerateResource.read.1.tlog
+I:\CourseAssignment_2010\Cream Samples\FourColor\obj\Debug\GenerateResource.write.1.tlog
+I:\CourseAssignment_2010\Cream Samples\FourColor\obj\Debug\FourColor.exe
+I:\CourseAssignment_2010\Cream Samples\FourColor\obj\Debug\FourColor.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\bin\Debug\FourColor.Contracts.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\bin\Debug\FourColor.Contracts.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\bin\Debug\FourColor.exe.config
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\bin\Debug\FourColor.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\bin\Debug\FourColor.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\obj\Debug\GenerateResource.read.1.tlog
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\obj\Debug\GenerateResource.write.1.tlog
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\obj\Debug\FourColor.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\FourColor\obj\Debug\FourColor.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\obj\Debug\FourColor.Properties.Resources.resources
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\obj\Debug\GenerateResource.read.1.tlog
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\obj\Debug\GenerateResource.write.1.tlog
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\obj\Debug\FourColor.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\bin\Debug\FourColor.Contracts.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\bin\Debug\FourColor.Contracts.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\bin\Debug\FourColor.exe.config
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\bin\Debug\FourColor.exe
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\bin\Debug\FourColor.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\FourColor\obj\Debug\FourColor.exe

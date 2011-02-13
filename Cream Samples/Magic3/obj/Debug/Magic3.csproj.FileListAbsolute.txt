@@ -1,0 +1,119 @@
+I:\CSharpCream.NET\CSharpCream.NET\Magic3\bin\Debug\Magic3.exe
+I:\CSharpCream.NET\CSharpCream.NET\Magic3\bin\Debug\Magic3.pdb
+I:\CSharpCream.NET\CSharpCream.NET\Magic3\bin\Debug\Cream.dll
+I:\CSharpCream.NET\CSharpCream.NET\Magic3\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\CSharpCream.NET\Magic3\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\CSharpCream.NET\Magic3\obj\Debug\Magic3.exe
+I:\CSharpCream.NET\CSharpCream.NET\Magic3\obj\Debug\Magic3.pdb
+I:\CSharpCream.NET\Magic3\bin\Debug\Magic3.exe
+I:\CSharpCream.NET\Magic3\bin\Debug\Magic3.pdb
+I:\CSharpCream.NET\Magic3\bin\Debug\Cream.dll
+I:\CSharpCream.NET\Magic3\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\Magic3\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\Magic3\obj\Debug\Magic3.exe
+I:\CSharpCream.NET\Magic3\obj\Debug\Magic3.pdb
+F:\CSharpCream.NET\Magic3\bin\Debug\Magic3.exe
+F:\CSharpCream.NET\Magic3\bin\Debug\Magic3.pdb
+F:\CSharpCream.NET\Magic3\bin\Debug\Cream.dll
+F:\CSharpCream.NET\Magic3\bin\Debug\Cream.pdb
+F:\CSharpCream.NET\Magic3\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET\Magic3\obj\Debug\Magic3.exe
+F:\CSharpCream.NET\Magic3\obj\Debug\Magic3.pdb
+E:\CSharpCream.NET\Magic3\bin\Debug\Magic3.exe
+E:\CSharpCream.NET\Magic3\bin\Debug\Magic3.pdb
+E:\CSharpCream.NET\Magic3\bin\Debug\Cream.dll
+E:\CSharpCream.NET\Magic3\bin\Debug\Cream.pdb
+E:\CSharpCream.NET\Magic3\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\Magic3\obj\Debug\Magic3.exe
+E:\CSharpCream.NET\Magic3\obj\Debug\Magic3.pdb
+D:\CSharpCream.NET\Magic3\bin\Debug\Magic3.exe
+D:\CSharpCream.NET\Magic3\bin\Debug\Magic3.pdb
+D:\CSharpCream.NET\Magic3\bin\Debug\Cream.dll
+D:\CSharpCream.NET\Magic3\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\Magic3\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\Magic3\obj\Debug\Magic3.exe
+D:\CSharpCream.NET\Magic3\obj\Debug\Magic3.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Magic3\bin\Debug\Magic3.exe
+D:\CSharpCream.NET\CSharpCream.NET\Magic3\bin\Debug\Magic3.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Magic3\bin\Debug\Cream.dll
+D:\CSharpCream.NET\CSharpCream.NET\Magic3\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Magic3\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\CSharpCream.NET\Magic3\obj\Debug\Magic3.exe
+D:\CSharpCream.NET\CSharpCream.NET\Magic3\obj\Debug\Magic3.pdb
+E:\CSharpCream.NET-15\Magic3\bin\Debug\Magic3.exe
+E:\CSharpCream.NET-15\Magic3\bin\Debug\Magic3.pdb
+E:\CSharpCream.NET-15\Magic3\bin\Debug\Cream.pdb
+E:\CSharpCream.NET-15\Magic3\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET-15\Magic3\obj\Debug\Magic3.exe
+E:\CSharpCream.NET-15\Magic3\obj\Debug\Magic3.pdb
+E:\CSharpCream.NET-15\Magic3\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\Magic3\bin\Debug\Magic3.exe
+D:\CSharpCream.NET-15\Magic3\bin\Debug\Magic3.pdb
+D:\CSharpCream.NET-15\Magic3\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\Magic3\bin\Debug\Cream.pdb
+D:\CSharpCream.NET-15\Magic3\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET-15\Magic3\obj\Debug\Magic3.exe
+D:\CSharpCream.NET-15\Magic3\obj\Debug\Magic3.pdb
+F:\CSharpCream.NET-15\Magic3\bin\Debug\Magic3.exe
+F:\CSharpCream.NET-15\Magic3\bin\Debug\Magic3.pdb
+F:\CSharpCream.NET-15\Magic3\bin\Debug\Cream.dll
+F:\CSharpCream.NET-15\Magic3\bin\Debug\Cream.pdb
+F:\CSharpCream.NET-15\Magic3\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET-15\Magic3\obj\Debug\Magic3.exe
+F:\CSharpCream.NET-15\Magic3\obj\Debug\Magic3.pdb
+I:\CSharpCream.NET-15\Magic3\bin\Debug\Magic3.exe
+I:\CSharpCream.NET-15\Magic3\bin\Debug\Magic3.pdb
+I:\CSharpCream.NET-15\Magic3\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15\Magic3\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15\Magic3\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15\Magic3\obj\Debug\Magic3.exe
+I:\CSharpCream.NET-15\Magic3\obj\Debug\Magic3.pdb
+I:\CSharpCream.NET-15 - 2010\Magic3\bin\Debug\Magic3.Contracts.dll
+I:\CSharpCream.NET-15 - 2010\Magic3\bin\Debug\Magic3.Contracts.pdb
+I:\CSharpCream.NET-15 - 2010\Magic3\bin\Debug\Magic3.exe
+I:\CSharpCream.NET-15 - 2010\Magic3\bin\Debug\Magic3.pdb
+I:\CSharpCream.NET-15 - 2010\Magic3\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15 - 2010\Magic3\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15 - 2010\Magic3\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15 - 2010\Magic3\obj\Debug\Magic3.exe
+I:\CSharpCream.NET-15 - 2010\Magic3\obj\Debug\Magic3.pdb
+I:\CourseAssignment_2010\Magic3\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Magic3\bin\Debug\Magic3.Contracts.dll
+I:\CourseAssignment_2010\Magic3\bin\Debug\Magic3.Contracts.pdb
+I:\CourseAssignment_2010\Magic3\bin\Debug\Magic3.exe.config
+I:\CourseAssignment_2010\Magic3\bin\Debug\Magic3.exe
+I:\CourseAssignment_2010\Magic3\bin\Debug\Magic3.pdb
+I:\CourseAssignment_2010\Magic3\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Magic3\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Magic3\obj\Debug\Magic3.exe
+I:\CourseAssignment_2010\Magic3\obj\Debug\Magic3.pdb
+I:\CourseAssignment_2010\Cream Samples\Magic3\bin\Debug\Magic3.Contracts.dll
+I:\CourseAssignment_2010\Cream Samples\Magic3\bin\Debug\Magic3.Contracts.pdb
+I:\CourseAssignment_2010\Cream Samples\Magic3\bin\Debug\Magic3.exe.config
+I:\CourseAssignment_2010\Cream Samples\Magic3\bin\Debug\Magic3.exe
+I:\CourseAssignment_2010\Cream Samples\Magic3\bin\Debug\Magic3.pdb
+I:\CourseAssignment_2010\Cream Samples\Magic3\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Cream Samples\Magic3\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Cream Samples\Magic3\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Cream Samples\Magic3\obj\Debug\Magic3.exe
+I:\CourseAssignment_2010\Cream Samples\Magic3\obj\Debug\Magic3.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\bin\Debug\Magic3.Contracts.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\bin\Debug\Magic3.Contracts.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\bin\Debug\Magic3.exe.config
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\bin\Debug\Magic3.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\bin\Debug\Magic3.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\obj\Debug\Magic3.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Magic3\obj\Debug\Magic3.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\obj\Debug\Magic3.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\bin\Debug\Magic3.Contracts.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\bin\Debug\Magic3.Contracts.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\bin\Debug\Magic3.exe.config
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\bin\Debug\Magic3.exe
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\bin\Debug\Magic3.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Magic3\obj\Debug\Magic3.exe

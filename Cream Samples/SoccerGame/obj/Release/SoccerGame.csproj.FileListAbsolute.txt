@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\SoccerGame\bin\SoccerGame.dll
+E:\CSharpCream.NET\SoccerGame\bin\SoccerGame.pdb
+E:\CSharpCream.NET\SoccerGame\bin\Cream.dll
+E:\CSharpCream.NET\SoccerGame\bin\Cream.pdb
+E:\CSharpCream.NET\SoccerGame\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\SoccerGame\obj\Release\SoccerGame.dll
+E:\CSharpCream.NET\SoccerGame\obj\Release\SoccerGame.pdb

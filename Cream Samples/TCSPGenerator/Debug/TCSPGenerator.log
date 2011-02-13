@@ -1,0 +1,73 @@
+﻿Build started 13/02/2011 12:37:50 PM.
+     1>Project "L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\TCSPGenerator\TCSPGenerator.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\GCCTCSP.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\GCCTCSP.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\GCCTCSP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\GCCTCSP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp TCSPGenerator.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         TCSPGenerator.cpp
+     1>TCSPGenerator.cpp(155): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TCSPGenerator.cpp(165): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(167): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(169): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(171): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(173): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(175): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(177): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(179): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(181): warning C4305: '=' : truncation from 'double' to 'float'
+     1>TCSPGenerator.cpp(109): warning C4101: 'PossibleNGs' : unreferenced local variable
+     1>TCSPGenerator.cpp(110): warning C4101: 'selectedNG' : unreferenced local variable
+     1>TCSPGenerator.cpp(109): warning C4101: 'PossibleCTs' : unreferenced local variable
+     1>TCSPGenerator.cpp(111): warning C4101: 'var1' : unreferenced local variable
+     1>TCSPGenerator.cpp(106): warning C4101: 'CMatrix' : unreferenced local variable
+     1>TCSPGenerator.cpp(111): warning C4101: 'val2' : unreferenced local variable
+     1>TCSPGenerator.cpp(107): warning C4101: 'RMatrix' : unreferenced local variable
+     1>TCSPGenerator.cpp(111): warning C4101: 'var2' : unreferenced local variable
+     1>TCSPGenerator.cpp(110): warning C4101: 'selectedCT' : unreferenced local variable
+     1>TCSPGenerator.cpp(111): warning C4101: 'val1' : unreferenced local variable
+     1>TCSPGenerator.cpp(108): warning C4101: 'r' : unreferenced local variable
+     1>TCSPGenerator.cpp(108): warning C4101: 't' : unreferenced local variable
+     1>TCSPGenerator.cpp(108): warning C4101: 'j' : unreferenced local variable
+     1>TCSPGenerator.cpp(212): warning C4101: 'selectedNG' : unreferenced local variable
+     1>TCSPGenerator.cpp(213): warning C4101: 'Relations' : unreferenced local variable
+     1>TCSPGenerator.cpp(215): warning C4101: 'val2' : unreferenced local variable
+     1>TCSPGenerator.cpp(215): warning C4101: 'val1' : unreferenced local variable
+     1>TCSPGenerator.cpp(213): warning C4101: 'selected' : unreferenced local variable
+     1>TCSPGenerator.cpp(213): warning C4101: 't' : unreferenced local variable
+     1>TCSPGenerator.cpp(690): warning C4101: 'k' : unreferenced local variable
+     1>TCSPGenerator.cpp(847): warning C4101: 'ccount' : unreferenced local variable
+     1>TCSPGenerator.cpp(877): warning C4101: 'ccout' : unreferenced local variable
+     1>TCSPGenerator.cpp(881): warning C4101: 'e' : unreferenced local variable
+     1>TCSPGenerator.cpp(1057): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TCSPGenerator.cpp(1058): warning C4305: 'return' : truncation from 'double' to 'float'
+         Generating Code...
+     1>l:\users\ali\documents\git\courseassignment\cream samples\tcspgenerator\tcspgenerator.cpp(687): warning C4715: 'Satisfied' : not all control paths return a value
+     1>l:\users\ali\documents\git\courseassignment\cream samples\tcspgenerator\tcspgenerator.cpp(654): warning C4715: 'Relation' : not all control paths return a value
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Ali\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"L:\Users\Ali\Documents\Git\CourseAssignment\Debug\GCCTCSP.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\GCCTCSP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"L:\Users\Ali\Documents\Git\CourseAssignment\Debug\GCCTCSP.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         Debug\TCSPGenerator.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         TCSPGenerator.vcxproj -> L:\Users\Ali\Documents\Git\CourseAssignment\Debug\GCCTCSP.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"L:\Users\Ali\Documents\Git\CourseAssignment\Debug\GCCTCSP.exe;#1" /manifest Debug\GCCTCSP.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\GCCTCSP.unsuccessfulbuild".
+         Touching "Debug\GCCTCSP.lastbuildstate".
+     1>Done Building Project "L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\TCSPGenerator\TCSPGenerator.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.24

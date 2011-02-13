@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="ClassLibrary.Professor,ClassLibrary" table="`Profs`" lazy="true">
+		<id name="ProfId" column="`ProfID`" type="int">
+			<generator class="native" />
+		</id>
+		<version name="Version" column="`Version`" type="int"  unsaved-value="0" />
+		<property name="PTitle" column="`Title`" type="string" length="10"  />
+		<property name="FirstName" column="`FirstName`" type="string" length="30" not-null="true" unique-key="IX_Profs"/>
+		<property name="LastName" column="`LastName`" type="string" length="30" not-null="true" unique-key="IX_Profs"/>
+		<!--<property type="string" not-null="true" length="30" name="FirstName" 
+							column="`FirstName`"  unique-key="uc_ProfName" />
+		<property type="string" not-null="true" length="30" name="LastName" 
+							column="`LastName`" unique-key="uc_ProfName" />-->
+		<property type="int" name="NoOfCourses" >
+			<column name="`NoOfCourses`" check="NoOfCourses >=0 and NoOFCourse &lt;=5"/>
+		</property>
+		<property type="Boolean" name="UnassignedProf" column="`UnassignedProf`" />
+		<bag name="Courses" inverse="true" lazy="true" cascade="save-update">
+			<key column="`ProfID`"  foreign-key="FK_Courses_Profs"/>
+			<one-to-many class="ClassLibrary.Course,ClassLibrary" />
+		</bag>
+		<bag name="Preferences" inverse="true" lazy="true" cascade="save-update">
+			<key column="`ProfID`"  foreign-key="FK_Preferences_Profs"/>
+			<one-to-many class="ClassLibrary.Preference,ClassLibrary" />
+		</bag>
+		<!--<bag name="Solutions" inverse="true" lazy="true" cascade="save-update">
+			<key column="`ProfID`"  foreign-key="FK_Solution_Profs" />
+			<one-to-many class="ClassLibrary.Solution,ClassLibrary" />
+		</bag>-->
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,119 @@
+I:\CSharpCream.NET\CSharpCream.NET\Golomb\bin\Debug\Golomb.exe
+I:\CSharpCream.NET\CSharpCream.NET\Golomb\bin\Debug\Golomb.pdb
+I:\CSharpCream.NET\CSharpCream.NET\Golomb\bin\Debug\Cream.dll
+I:\CSharpCream.NET\CSharpCream.NET\Golomb\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\CSharpCream.NET\Golomb\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\CSharpCream.NET\Golomb\obj\Debug\Golomb.exe
+I:\CSharpCream.NET\CSharpCream.NET\Golomb\obj\Debug\Golomb.pdb
+I:\CSharpCream.NET\Golomb\bin\Debug\Golomb.exe
+I:\CSharpCream.NET\Golomb\bin\Debug\Golomb.pdb
+I:\CSharpCream.NET\Golomb\bin\Debug\Cream.dll
+I:\CSharpCream.NET\Golomb\bin\Debug\Cream.pdb
+I:\CSharpCream.NET\Golomb\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET\Golomb\obj\Debug\Golomb.exe
+I:\CSharpCream.NET\Golomb\obj\Debug\Golomb.pdb
+F:\CSharpCream.NET\Golomb\bin\Debug\Golomb.exe
+F:\CSharpCream.NET\Golomb\bin\Debug\Golomb.pdb
+F:\CSharpCream.NET\Golomb\bin\Debug\Cream.dll
+F:\CSharpCream.NET\Golomb\bin\Debug\Cream.pdb
+F:\CSharpCream.NET\Golomb\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET\Golomb\obj\Debug\Golomb.exe
+F:\CSharpCream.NET\Golomb\obj\Debug\Golomb.pdb
+E:\CSharpCream.NET\Golomb\bin\Debug\Golomb.exe
+E:\CSharpCream.NET\Golomb\bin\Debug\Golomb.pdb
+E:\CSharpCream.NET\Golomb\bin\Debug\Cream.dll
+E:\CSharpCream.NET\Golomb\bin\Debug\Cream.pdb
+E:\CSharpCream.NET\Golomb\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\Golomb\obj\Debug\Golomb.exe
+E:\CSharpCream.NET\Golomb\obj\Debug\Golomb.pdb
+D:\CSharpCream.NET\Golomb\bin\Debug\Golomb.exe
+D:\CSharpCream.NET\Golomb\bin\Debug\Golomb.pdb
+D:\CSharpCream.NET\Golomb\bin\Debug\Cream.dll
+D:\CSharpCream.NET\Golomb\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\Golomb\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\Golomb\obj\Debug\Golomb.exe
+D:\CSharpCream.NET\Golomb\obj\Debug\Golomb.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Golomb\bin\Debug\Golomb.exe
+D:\CSharpCream.NET\CSharpCream.NET\Golomb\bin\Debug\Golomb.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Golomb\bin\Debug\Cream.dll
+D:\CSharpCream.NET\CSharpCream.NET\Golomb\bin\Debug\Cream.pdb
+D:\CSharpCream.NET\CSharpCream.NET\Golomb\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\CSharpCream.NET\Golomb\obj\Debug\Golomb.exe
+D:\CSharpCream.NET\CSharpCream.NET\Golomb\obj\Debug\Golomb.pdb
+E:\CSharpCream.NET-15\Golomb\bin\Debug\Golomb.exe
+E:\CSharpCream.NET-15\Golomb\bin\Debug\Golomb.pdb
+E:\CSharpCream.NET-15\Golomb\bin\Debug\Cream.pdb
+E:\CSharpCream.NET-15\Golomb\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET-15\Golomb\obj\Debug\Golomb.exe
+E:\CSharpCream.NET-15\Golomb\obj\Debug\Golomb.pdb
+E:\CSharpCream.NET-15\Golomb\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\Golomb\bin\Debug\Golomb.exe
+D:\CSharpCream.NET-15\Golomb\bin\Debug\Golomb.pdb
+D:\CSharpCream.NET-15\Golomb\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\Golomb\bin\Debug\Cream.pdb
+D:\CSharpCream.NET-15\Golomb\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET-15\Golomb\obj\Debug\Golomb.exe
+D:\CSharpCream.NET-15\Golomb\obj\Debug\Golomb.pdb
+F:\CSharpCream.NET-15\Golomb\bin\Debug\Golomb.exe
+F:\CSharpCream.NET-15\Golomb\bin\Debug\Golomb.pdb
+F:\CSharpCream.NET-15\Golomb\bin\Debug\Cream.dll
+F:\CSharpCream.NET-15\Golomb\bin\Debug\Cream.pdb
+F:\CSharpCream.NET-15\Golomb\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET-15\Golomb\obj\Debug\Golomb.exe
+F:\CSharpCream.NET-15\Golomb\obj\Debug\Golomb.pdb
+I:\CSharpCream.NET-15\Golomb\bin\Debug\Golomb.exe
+I:\CSharpCream.NET-15\Golomb\bin\Debug\Golomb.pdb
+I:\CSharpCream.NET-15\Golomb\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15\Golomb\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15\Golomb\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15\Golomb\obj\Debug\Golomb.exe
+I:\CSharpCream.NET-15\Golomb\obj\Debug\Golomb.pdb
+I:\CSharpCream.NET-15 - 2010\Golomb\bin\Debug\Golomb.Contracts.dll
+I:\CSharpCream.NET-15 - 2010\Golomb\bin\Debug\Golomb.Contracts.pdb
+I:\CSharpCream.NET-15 - 2010\Golomb\bin\Debug\Golomb.exe
+I:\CSharpCream.NET-15 - 2010\Golomb\bin\Debug\Golomb.pdb
+I:\CSharpCream.NET-15 - 2010\Golomb\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15 - 2010\Golomb\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15 - 2010\Golomb\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15 - 2010\Golomb\obj\Debug\Golomb.exe
+I:\CSharpCream.NET-15 - 2010\Golomb\obj\Debug\Golomb.pdb
+I:\CourseAssignment_2010\Golomb\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Golomb\bin\Debug\Golomb.Contracts.dll
+I:\CourseAssignment_2010\Golomb\bin\Debug\Golomb.Contracts.pdb
+I:\CourseAssignment_2010\Golomb\bin\Debug\Golomb.exe.config
+I:\CourseAssignment_2010\Golomb\bin\Debug\Golomb.exe
+I:\CourseAssignment_2010\Golomb\bin\Debug\Golomb.pdb
+I:\CourseAssignment_2010\Golomb\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Golomb\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Golomb\obj\Debug\Golomb.exe
+I:\CourseAssignment_2010\Golomb\obj\Debug\Golomb.pdb
+I:\CourseAssignment_2010\Cream Samples\Golomb\bin\Debug\Golomb.Contracts.dll
+I:\CourseAssignment_2010\Cream Samples\Golomb\bin\Debug\Golomb.Contracts.pdb
+I:\CourseAssignment_2010\Cream Samples\Golomb\bin\Debug\Golomb.exe.config
+I:\CourseAssignment_2010\Cream Samples\Golomb\bin\Debug\Golomb.exe
+I:\CourseAssignment_2010\Cream Samples\Golomb\bin\Debug\Golomb.pdb
+I:\CourseAssignment_2010\Cream Samples\Golomb\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Cream Samples\Golomb\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Cream Samples\Golomb\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Cream Samples\Golomb\obj\Debug\Golomb.exe
+I:\CourseAssignment_2010\Cream Samples\Golomb\obj\Debug\Golomb.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\bin\Debug\Golomb.Contracts.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\bin\Debug\Golomb.Contracts.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\bin\Debug\Golomb.exe.config
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\bin\Debug\Golomb.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\bin\Debug\Golomb.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\obj\Debug\Golomb.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\Golomb\obj\Debug\Golomb.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\obj\Debug\Golomb.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\bin\Debug\Golomb.Contracts.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\bin\Debug\Golomb.Contracts.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\bin\Debug\Golomb.exe.config
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\bin\Debug\Golomb.exe
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\bin\Debug\Golomb.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\Golomb\obj\Debug\Golomb.exe

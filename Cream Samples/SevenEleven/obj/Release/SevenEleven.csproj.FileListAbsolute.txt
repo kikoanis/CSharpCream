@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\SevenEleven\bin\Release\SevenEleven.exe
+E:\CSharpCream.NET\SevenEleven\bin\Release\SevenEleven.pdb
+E:\CSharpCream.NET\SevenEleven\bin\Release\Cream.dll
+E:\CSharpCream.NET\SevenEleven\bin\Release\Cream.pdb
+E:\CSharpCream.NET\SevenEleven\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\SevenEleven\obj\Release\SevenEleven.exe
+E:\CSharpCream.NET\SevenEleven\obj\Release\SevenEleven.pdb

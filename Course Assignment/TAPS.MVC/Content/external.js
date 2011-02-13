@@ -1,0 +1,26 @@
+//document.write("<script src='/content/jquery-1.3.2.min.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js' type='text/javascript'></scr" + "ipt>");
+//document.write("<script src='/content/jquery-1.2.6-intellisense.js'  type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/jquery.simplemodal.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/confirm.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/jquery.tooltip.pack.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/chili-1.7.pack.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/metadata.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/jquery.bgiframe.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/jquery.delegate.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/jquery.dimensions.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/prettyCheckboxes.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/jquery.dimensions.js' type='text/javascript'></scr" + "ipt>");
+//document.write("<script src='/content/jtip.js' type='text/javascript'></scr" + "ipt>");
+//document.write("<script src='/content/jquery.color.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/jquery.tablesorter.min.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/jquery.alphanumeric.pack.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/CSS/antispam.js' type='text/javascript'></scr" + "ipt>");
+document.write("<script src='/content/CSS/prettify.js' type='text/javascript'></scr" + "ipt>");
+
+document.write("<link media='all' href='/content/CSS/jquery.tooltip.css' type='text/css' rel='Stylesheet'/>");
+document.write("<link media='all' href='/content/CSS/prettify.css' type='text/css' rel='Stylesheet'/>");
+document.write("<link media='all' href='/content/CSS/confirm.css' type='text/css' rel='Stylesheet'/>");
+document.write("<link media='all' href='/content/CSS/TableSorterStyle.css' type='text/css' rel='Stylesheet'/>");
+document.write("<link media='all' href='/content/CSS/all.css' type='text/css' rel='Stylesheet'/>");
+document.write("<link media='all' href='/content/CSS/prettyCheckboxes.css' type='text/css' rel='Stylesheet'/>");

@@ -1,0 +1,77 @@
+E:\CSharpCream.NET-15\VariousExamples\bin\Debug\VariousExamples.exe
+E:\CSharpCream.NET-15\VariousExamples\bin\Debug\VariousExamples.pdb
+E:\CSharpCream.NET-15\VariousExamples\bin\Debug\Cream.dll
+E:\CSharpCream.NET-15\VariousExamples\bin\Debug\Cream.pdb
+E:\CSharpCream.NET-15\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET-15\VariousExamples\obj\Debug\VariousExamples.exe
+E:\CSharpCream.NET-15\VariousExamples\obj\Debug\VariousExamples.pdb
+D:\CSharpCream.NET-15\VariousExamples\bin\Debug\VariousExamples.exe
+D:\CSharpCream.NET-15\VariousExamples\bin\Debug\VariousExamples.pdb
+D:\CSharpCream.NET-15\VariousExamples\bin\Debug\Cream.dll
+D:\CSharpCream.NET-15\VariousExamples\bin\Debug\Cream.pdb
+D:\CSharpCream.NET-15\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET-15\VariousExamples\obj\Debug\VariousExamples.exe
+D:\CSharpCream.NET-15\VariousExamples\obj\Debug\VariousExamples.pdb
+F:\CSharpCream.NET-15\VariousExamples\bin\Debug\VariousExamples.exe
+F:\CSharpCream.NET-15\VariousExamples\bin\Debug\VariousExamples.pdb
+F:\CSharpCream.NET-15\VariousExamples\bin\Debug\Cream.dll
+F:\CSharpCream.NET-15\VariousExamples\bin\Debug\Cream.pdb
+F:\CSharpCream.NET-15\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET-15\VariousExamples\obj\Debug\VariousExamples.exe
+F:\CSharpCream.NET-15\VariousExamples\obj\Debug\VariousExamples.pdb
+I:\CSharpCream.NET-15\VariousExamples\bin\Debug\VariousExamples.exe
+I:\CSharpCream.NET-15\VariousExamples\bin\Debug\VariousExamples.pdb
+I:\CSharpCream.NET-15\VariousExamples\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15\VariousExamples\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15\VariousExamples\obj\Debug\VariousExamples.exe
+I:\CSharpCream.NET-15\VariousExamples\obj\Debug\VariousExamples.pdb
+I:\CSharpCream.NET-15 - 2010\VariousExamples\bin\Debug\VariousExamples.Contracts.dll
+I:\CSharpCream.NET-15 - 2010\VariousExamples\bin\Debug\VariousExamples.Contracts.pdb
+I:\CSharpCream.NET-15 - 2010\VariousExamples\bin\Debug\VariousExamples.exe
+I:\CSharpCream.NET-15 - 2010\VariousExamples\bin\Debug\VariousExamples.pdb
+I:\CSharpCream.NET-15 - 2010\VariousExamples\bin\Debug\Cream.dll
+I:\CSharpCream.NET-15 - 2010\VariousExamples\bin\Debug\Cream.pdb
+I:\CSharpCream.NET-15 - 2010\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15 - 2010\VariousExamples\obj\Debug\VariousExamples.exe
+I:\CSharpCream.NET-15 - 2010\VariousExamples\obj\Debug\VariousExamples.pdb
+I:\CourseAssignment_2010\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\VariousExamples\bin\Debug\VariousExamples.Contracts.dll
+I:\CourseAssignment_2010\VariousExamples\bin\Debug\VariousExamples.Contracts.pdb
+I:\CourseAssignment_2010\VariousExamples\bin\Debug\VariousExamples.exe.config
+I:\CourseAssignment_2010\VariousExamples\bin\Debug\VariousExamples.exe
+I:\CourseAssignment_2010\VariousExamples\bin\Debug\VariousExamples.pdb
+I:\CourseAssignment_2010\VariousExamples\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\VariousExamples\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\VariousExamples\obj\Debug\VariousExamples.exe
+I:\CourseAssignment_2010\VariousExamples\obj\Debug\VariousExamples.pdb
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\bin\Debug\VariousExamples.Contracts.dll
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\bin\Debug\VariousExamples.Contracts.pdb
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\bin\Debug\VariousExamples.exe.config
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\bin\Debug\VariousExamples.exe
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\bin\Debug\VariousExamples.pdb
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\bin\Debug\Cream.dll
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\bin\Debug\Cream.pdb
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\obj\Debug\VariousExamples.exe
+I:\CourseAssignment_2010\Cream Samples\VariousExamples\obj\Debug\VariousExamples.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\bin\Debug\VariousExamples.Contracts.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\bin\Debug\VariousExamples.Contracts.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\bin\Debug\VariousExamples.exe.config
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\bin\Debug\VariousExamples.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\bin\Debug\VariousExamples.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\obj\Debug\VariousExamples.exe
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\VariousExamples\obj\Debug\VariousExamples.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\obj\Debug\VariousExamples.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\bin\Debug\VariousExamples.Contracts.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\bin\Debug\VariousExamples.Contracts.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\bin\Debug\VariousExamples.exe.config
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\bin\Debug\VariousExamples.exe
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\bin\Debug\VariousExamples.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\bin\Debug\Cream.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\bin\Debug\Cream.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\VariousExamples\obj\Debug\VariousExamples.exe

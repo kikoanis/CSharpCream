@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\Golomb\bin\Release\Golomb.exe
+E:\CSharpCream.NET\Golomb\bin\Release\Golomb.pdb
+E:\CSharpCream.NET\Golomb\bin\Release\Cream.dll
+E:\CSharpCream.NET\Golomb\bin\Release\Cream.pdb
+E:\CSharpCream.NET\Golomb\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\Golomb\obj\Release\Golomb.exe
+E:\CSharpCream.NET\Golomb\obj\Release\Golomb.pdb

@@ -1,0 +1,94 @@
+E:\CSharpCream.NET\SoccerGame\bin\SoccerGame.dll
+E:\CSharpCream.NET\SoccerGame\bin\SoccerGame.pdb
+E:\CSharpCream.NET\SoccerGame\bin\Cream.dll
+E:\CSharpCream.NET\SoccerGame\bin\Cream.pdb
+E:\CSharpCream.NET\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\SoccerGame\obj\Debug\SoccerGame.dll
+E:\CSharpCream.NET\SoccerGame\obj\Debug\SoccerGame.pdb
+D:\CSharpCream.NET\SoccerGame\bin\SoccerGame.dll
+D:\CSharpCream.NET\SoccerGame\bin\SoccerGame.pdb
+D:\CSharpCream.NET\SoccerGame\bin\Cream.dll
+D:\CSharpCream.NET\SoccerGame\bin\Cream.pdb
+D:\CSharpCream.NET\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\SoccerGame\obj\Debug\SoccerGame.dll
+D:\CSharpCream.NET\SoccerGame\obj\Debug\SoccerGame.pdb
+D:\CSharpCream.NET\CSharpCream.NET\SoccerGame\bin\SoccerGame.dll
+D:\CSharpCream.NET\CSharpCream.NET\SoccerGame\bin\SoccerGame.pdb
+D:\CSharpCream.NET\CSharpCream.NET\SoccerGame\bin\Cream.dll
+D:\CSharpCream.NET\CSharpCream.NET\SoccerGame\bin\Cream.pdb
+D:\CSharpCream.NET\CSharpCream.NET\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET\CSharpCream.NET\SoccerGame\obj\Debug\SoccerGame.dll
+D:\CSharpCream.NET\CSharpCream.NET\SoccerGame\obj\Debug\SoccerGame.pdb
+E:\CSharpCream.NET-15\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpCream.NET-15\SoccerGame\obj\Debug\SoccerGame.pdb
+E:\CSharpCream.NET-15\SoccerGame\bin\SoccerGame.dll
+E:\CSharpCream.NET-15\SoccerGame\bin\SoccerGame.pdb
+E:\CSharpCream.NET-15\SoccerGame\bin\Cream.dll
+E:\CSharpCream.NET-15\SoccerGame\bin\Cream.pdb
+E:\CSharpCream.NET-15\SoccerGame\obj\Debug\SoccerGame.dll
+D:\CSharpCream.NET-15\SoccerGame\bin\SoccerGame.dll
+D:\CSharpCream.NET-15\SoccerGame\bin\SoccerGame.pdb
+D:\CSharpCream.NET-15\SoccerGame\bin\Cream.dll
+D:\CSharpCream.NET-15\SoccerGame\bin\Cream.pdb
+D:\CSharpCream.NET-15\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpCream.NET-15\SoccerGame\obj\Debug\SoccerGame.dll
+D:\CSharpCream.NET-15\SoccerGame\obj\Debug\SoccerGame.pdb
+F:\CSharpCream.NET-15\SoccerGame\bin\SoccerGame.dll
+F:\CSharpCream.NET-15\SoccerGame\bin\SoccerGame.pdb
+F:\CSharpCream.NET-15\SoccerGame\bin\Cream.dll
+F:\CSharpCream.NET-15\SoccerGame\bin\Cream.pdb
+F:\CSharpCream.NET-15\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharpCream.NET-15\SoccerGame\obj\Debug\SoccerGame.dll
+F:\CSharpCream.NET-15\SoccerGame\obj\Debug\SoccerGame.pdb
+I:\CSharpCream.NET-15\SoccerGame\bin\SoccerGame.dll
+I:\CSharpCream.NET-15\SoccerGame\bin\SoccerGame.pdb
+I:\CSharpCream.NET-15\SoccerGame\bin\Cream.dll
+I:\CSharpCream.NET-15\SoccerGame\bin\Cream.pdb
+I:\CSharpCream.NET-15\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15\SoccerGame\obj\Debug\SoccerGame.dll
+I:\CSharpCream.NET-15\SoccerGame\obj\Debug\SoccerGame.pdb
+I:\CSharpCream.NET-15 - 2010\SoccerGame\bin\SoccerGame.Contracts.dll
+I:\CSharpCream.NET-15 - 2010\SoccerGame\bin\SoccerGame.Contracts.pdb
+I:\CSharpCream.NET-15 - 2010\SoccerGame\bin\SoccerGame.dll
+I:\CSharpCream.NET-15 - 2010\SoccerGame\bin\SoccerGame.pdb
+I:\CSharpCream.NET-15 - 2010\SoccerGame\bin\Cream.dll
+I:\CSharpCream.NET-15 - 2010\SoccerGame\bin\Cream.pdb
+I:\CSharpCream.NET-15 - 2010\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+I:\CSharpCream.NET-15 - 2010\SoccerGame\obj\Debug\SoccerGame.dll
+I:\CSharpCream.NET-15 - 2010\SoccerGame\obj\Debug\SoccerGame.pdb
+I:\CourseAssignment_2010\SoccerGame\bin\SoccerGame.Contracts.dll
+I:\CourseAssignment_2010\SoccerGame\bin\SoccerGame.Contracts.pdb
+I:\CourseAssignment_2010\SoccerGame\bin\SoccerGame.dll
+I:\CourseAssignment_2010\SoccerGame\bin\SoccerGame.pdb
+I:\CourseAssignment_2010\SoccerGame\bin\Cream.dll
+I:\CourseAssignment_2010\SoccerGame\bin\Cream.pdb
+I:\CourseAssignment_2010\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\SoccerGame\obj\Debug\SoccerGame.dll
+I:\CourseAssignment_2010\SoccerGame\obj\Debug\SoccerGame.pdb
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\bin\SoccerGame.Contracts.dll
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\bin\SoccerGame.Contracts.pdb
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\bin\SoccerGame.dll
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\bin\SoccerGame.pdb
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\bin\Cream.dll
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\bin\Cream.pdb
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\obj\Debug\SoccerGame.dll
+I:\CourseAssignment_2010\Cream Samples\SoccerGame\obj\Debug\SoccerGame.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\bin\SoccerGame.Contracts.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\bin\SoccerGame.Contracts.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\bin\SoccerGame.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\bin\SoccerGame.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\bin\Cream.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\bin\Cream.pdb
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\obj\Debug\SoccerGame.dll
+L:\Users\Ali\Documents\Git\CSharpCream\Cream Samples\SoccerGame\obj\Debug\SoccerGame.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\obj\Debug\SoccerGame.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\bin\SoccerGame.Contracts.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\bin\SoccerGame.Contracts.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\bin\SoccerGame.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\bin\SoccerGame.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\bin\Cream.dll
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\bin\Cream.pdb
+L:\Users\Ali\Documents\Git\CourseAssignment\Cream Samples\SoccerGame\obj\Debug\SoccerGame.dll

@@ -1,0 +1,71 @@
+.str {
+	COLOR: #080
+}
+.kwd {
+	COLOR: #008
+}
+.com {
+	COLOR: #800
+}
+.typ {
+	COLOR: #606
+}
+.lit {
+	COLOR: #066
+}
+.pun {
+	COLOR: #660
+}
+.pln {
+	COLOR: #000
+}
+.tag {
+	COLOR: #008
+}
+.atn {
+	COLOR: #606
+}
+.atv {
+	COLOR: #080
+}
+.dec {
+	COLOR: #606
+}
+PRE.prettyprint {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+
+@media Print    
+{
+.str {
+	COLOR: #060
+}
+.kwd {
+	FONT-WEIGHT: bold; COLOR: #006
+}
+.com {
+	COLOR: #600; FONT-STYLE: italic
+}
+.typ {
+	FONT-WEIGHT: bold; COLOR: #404
+}
+.lit {
+	COLOR: #044
+}
+.pun {
+	COLOR: #440
+}
+.pln {
+	COLOR: #000
+}
+.tag {
+	FONT-WEIGHT: bold; COLOR: #006
+}
+.atn {
+	COLOR: #404
+}
+.atv {
+	COLOR: #060
+}
+
+}

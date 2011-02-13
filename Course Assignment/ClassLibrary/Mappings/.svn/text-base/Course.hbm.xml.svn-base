@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="ClassLibrary.Course,ClassLibrary" table="`Courses`" lazy="true" >
+		<id name="CourseId" column="`CourseID`" type="int">
+			<generator class="native" />
+		</id>
+		<version name="Version" column="`Version`" type="int"   unsaved-value="0"/>
+		<property type="string" not-null="true" length="50" name="CourseName" column="`CourseName`"  unique="true"/>
+		<property type="string" not-null="true" length="15" name="TimeSlot" column="`TimeSlot`" />
+		<property type="string" not-null="true" length="7" name="DaysOfWeek" column="`DOW`" />
+		<many-to-one name="AssignedProfessor" cascade="none" not-null="false" column="`ProfID`" />
+		<bag name="ProfessorsAssociatedList" inverse="true" lazy="true" cascade="save-update">
+			<key column="`CourseID`"  foreign-key="FK_Courses_Profs"/>
+			<one-to-many class="ClassLibrary.Preference,ClassLibrary" />
+		</bag>
+		<!--<bag name="Solutions" inverse="true" lazy="true" cascade="save-update" >
+			<key column="`CourseID`" foreign-key="FK_Solution_Courses" />
+			<one-to-many class="ClassLibrary.Solution,ClassLibrary" />
+		</bag>-->    
+		
+		
+		<!--<sql-insert>exec CoursesInsert ?,?,?,?,?,?</sql-insert>
+		--><!--exec UpdateCustomer @LastName = ?, @FirstName = ?, @Version = ?, @CustomerId = ?--><!--
+		<sql-update>exec CoursesUpdate ?,?,?,?,?,?,?</sql-update>
+		<sql-delete>exec CoursesDelete ?, ?</sql-delete>-->
+		
+		
+	</class>
+</hibernate-mapping>

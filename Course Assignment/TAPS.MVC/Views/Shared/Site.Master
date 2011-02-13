@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage"  %>
+<%@ Import Namespace="TAPS.MVC.Helpers" %>
+<%@ Register TagPrefix="HeaderControl" TagName="HControl" src="HeaderControl.ascx"%>
+<%@ Register TagPrefix="FooterControl" TagName="FControl" src="FooterControl.ascx"%>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<title><%: ViewData["Title"] %></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta content="Course Assignment Problem" name="description"/>
+<meta content="MShtml 6.00.6001.18099" name="generator"/>
+<script type="text/javascript" src="<%= (Request.ApplicationPath + @"/Content/external.js").Replace(@"//", @"/") %>"></script> 
+</head>
+
+
+<body>
+<HEADERCONTROL:HCONTROL id="HCONTROL" runat="server"  ></HEADERCONTROL:HCONTROL>
+<table width="98%">
+<tr style="width:98%;vertical-align:text-top;">
+<td align="left" style="height:100%;vertical-align:top;">
+    <%
+        if (!Request.IsAuthenticated)
+        {
+%>
+<div id="menu">Main Menu 
+    <ul>
+      <li><table width="98%"><tr><td title="Home page" class="right">
+         <%= Html.ImageLink("home", "Home", "Index", "/", ResolveUrl("~/Content/Images/Home.png"), "Home", "border:none;")%>
+        <%--<%= Html.ActionLinkImage<HomeController>(p => p.Index(), "~/Content/Images/Home.png", "Home", true)%>--%>
+        </td><td>
+      </td></tr></table></li>
+      <li><table  width="98%"><tr><td title="Insert/Edit/Delete courses information" class="right">
+         <%= Html.ImageLink("course", "Course", "Index", "/", ResolveUrl("~/Content/Images/Course.png"), "Course", "border:none;")%>
+        <%--<%= Html.ActionLinkImage<CourseController>(p => p.Index(), "~/Content/Images/Course.png", "Course", true)%>--%>
+        </td><td>
+      </td></tr></table></li>
+      <li><table width="98%"><tr><td title="Insert/Edit/Delete professors information" class="right">
+         <%= Html.ImageLink("professor", "Professor", "Index", "/", ResolveUrl("~/Content/Images/Professor.png"), "Professor", "border:none;")%>
+        <%--<%= Html.ActionLinkImage<ProfessorController>(p => p.Index(), "~/Content/Images/Professor.png", "Professor", true)%>--%>
+        </td><td>
+      </td></tr></table></li>
+      <li><table width="98%"><tr><td title="Generate TAP solutions" class="right">
+         <%= Html.ImageLink("solution", "Solution", "Generate", "/", ResolveUrl("~/Content/Images/Solution.png"), "Solution", "border:none;")%>
+        <%--<%= Html.ActionLinkImage<SolutionController>(p => p.Generate(), "~/Content/Images/Solution.png", "Solution", true)%>--%>
+        </td><td>
+      </td></tr></table></li>
+      <li><table width="98%"><tr><td title="Change application settings" class="right">
+          <%= Html.ImageLink("settings", "Settings", "Index", "/", ResolveUrl("~/Content/Images/Settings.png"), "Settings", "border:none;")%> 
+          <%--<%= Html.ActionLinkImage<SettingsController>(p => p.Index(), "~/Content/Images/Settings.png", "Settings", true)%>--%>
+        </td><td>
+      </td></tr></table></li>
+      <li><table width="98%"><tr><td title="More information about this website" class="right">
+          <%= Html.ImageLink("about", "Home", "About", "/", ResolveUrl("~/Content/Images/About.png"), "About this", "border:none;")%>
+          <%--<%= Html.ActionLinkImage<HomeController>(p => p.About(), "~/Content/Images/About.png", "About this", true)%>--%>
+        </td><td>
+      </td></tr></table></li>
+    </ul>
+    <%
+        }
+        else
+        {
+                                 %>
+<div  class="menu">&nbsp;</div>
+    <%
+        }
+
+%>
+    Links 
+    <ul>
+      <li><a href="http://www2.cs.uregina.ca/~hmer200a/">C-Sharp Cream Solver</a></li>
+      <li><a href="http://bach.istc.kobe-u.ac.jp/cream/">Java Cream Solver</a></li>
+      <li><a href="http://www.asp.net/mvc/">ASP.NET MVC</a> </li>
+      <li><a href="https://sourceforge.net/projects/nhibernate/">NHibernate</a> </li>
+      <li><a href="http://jquery.com/">JQuery</a> </li>
+    </ul>
+</div>
+</td >
+<td align="left" style="text-align:left;vertical-align:top;width:100%">
+<div id="content" >
+    <asp:ContentPlaceHolder ID="MainContent" runat="server"  />
+</div>
+</td>
+</tr>
+</table>
+<FOOTERCONTROL:FCONTROL id="FCONTROL" runat="server"></FOOTERCONTROL:FCONTROL>
+<script language="javascript" type="text/javascript">
+  $('.right').tooltip({ showURL: true, positionLeft: false, delay:1500, track:true });
+</script>
+</body>
+</html>
+

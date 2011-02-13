@@ -1,0 +1,7 @@
+E:\CSharpCream.NET\Magic3\bin\Release\Magic3.exe
+E:\CSharpCream.NET\Magic3\bin\Release\Magic3.pdb
+E:\CSharpCream.NET\Magic3\bin\Release\Cream.dll
+E:\CSharpCream.NET\Magic3\bin\Release\Cream.pdb
+E:\CSharpCream.NET\Magic3\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\Magic3\obj\Release\Magic3.exe
+E:\CSharpCream.NET\Magic3\obj\Release\Magic3.pdb

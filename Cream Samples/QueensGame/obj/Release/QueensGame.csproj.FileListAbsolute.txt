@@ -1,0 +1,10 @@
+E:\CSharpCream.NET\QueensGame\bin\Release\QueensGame.exe
+E:\CSharpCream.NET\QueensGame\bin\Release\QueensGame.pdb
+E:\CSharpCream.NET\QueensGame\bin\Release\Cream.dll
+E:\CSharpCream.NET\QueensGame\bin\Release\Cream.pdb
+E:\CSharpCream.NET\QueensGame\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpCream.NET\QueensGame\obj\Release\QueensGame.QueenPuzzle.resources
+E:\CSharpCream.NET\QueensGame\obj\Release\QueensGame.Properties.Resources.resources
+E:\CSharpCream.NET\QueensGame\obj\Release\QueensGame.csproj.GenerateResource.Cache
+E:\CSharpCream.NET\QueensGame\obj\Release\QueensGame.exe
+E:\CSharpCream.NET\QueensGame\obj\Release\QueensGame.pdb
